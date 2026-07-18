@@ -66,7 +66,7 @@ public class P3S120 {
 
             account.deposit(50000);
 
-            account.withdraw(60000);
+            account.withdraw(10000);
 
         } catch (InvalidDepositException e) {
 
